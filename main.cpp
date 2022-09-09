@@ -157,11 +157,11 @@ Part 1b Assignment: 1 Step
 /*
 Thing 1) Music Studio
 5 properties:
-    1) number of microphones
-    2) number of instruments
-    3) size of live room
-    4) amount of electricity used each week
-    5) amount of monthly profit
+    1) number of microphones (int)
+    2) number of instruments (int)
+    3) size of live room (float)
+    4) amount of electricity used each week (unsigned int) 
+    5) amount of monthly profit (double)
 3 things it can do:
     1) record and process audio
     2) provide a creative environment
@@ -171,11 +171,11 @@ Thing 1) Music Studio
 /*
 Thing 2) Computer
 5 properties:
-    1) amount of RAM
-    2) available hard drive space available
-    3) screen size
-    4) processor speed
-    5) amount of usb ports
+    1) amount of RAM (int)
+    2) available hard drive space available (float)
+    3) screen size (float)
+    4) processor speed (double)
+    5) amount of usb ports (int)
 3 things it can do:
     1) access the internet
     2) play music
@@ -185,11 +185,11 @@ Thing 2) Computer
 /*
 Thing 3) Guitar
 5 properties:
-    1) amount of strings
-    2) construction material
-    3) neck radius
-    4) amount of frets
-    5) bridge type
+    1) amount of strings (int)
+    2) construction material (std::string)
+    3) neck radius (int)
+    4) amount of frets (unsigned int)
+    5) bridge type (std::string)
 3 things it can do:
     1) play a chord
     2) use multiple tunings
@@ -199,11 +199,11 @@ Thing 3) Guitar
 /*
 Thing 4) Reverb Plugin
 5 properties:
-    1) installation size
-    2) amount of reverb algorithms
-    3) amount of adjustable parameters
-    4) cpu processing requirement
-    5) resizable GUI option
+    1) installation size (int)
+    2) amount of reverb algorithms (int)
+    3) amount of adjustable parameters (int)
+    4) cpu processing requirement (float)
+    5) resizable GUI option (bool)
 3 things it can do:
     1) create stereo or mono reverb
     2) blend dry and wet signals
@@ -280,11 +280,11 @@ Define an object that is made of 5 sub-objects.
 */
 
 /*
-Thing 10)
+Thing 10) Guitar Amp
 5 properties:
-    1)
-    2)
-    3)
+    1) Tubes
+    2) 
+    3) 
     4)
     5)
 3 things it can do:
