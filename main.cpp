@@ -155,59 +155,59 @@ Part 1b Assignment: 1 Step
 */
 
 /*
-Thing 1)
+Thing 1) Music Studio
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) number of microphones
+    2) number of instruments
+    3) size of live room
+    4) amount of electricity used each week
+    5) amount of monthly profit
 3 things it can do:
-    1)
-    2)
-    3)
+    1) record and process audio
+    2) provide a creative environment
+    3) charge client per session
  */
 
 /*
-Thing 2)
+Thing 2) Computer
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) amount of RAM
+    2) available hard drive space available
+    3) screen size
+    4) processor speed
+    5) amount of usb ports
 3 things it can do:
-    1)
-    2)
-    3)
+    1) access the internet
+    2) play music
+    3) process information
  */
 
 /*
-Thing 3)
+Thing 3) Guitar
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) amount of strings
+    2) construction material
+    3) neck radius
+    4) amount of frets
+    5) bridge type
 3 things it can do:
-    1)
-    2)
-    3)
+    1) play a chord
+    2) use multiple tunings
+    3) use different string guages
  */
 
 /*
-Thing 4)
+Thing 4) Reverb Plugin
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) installation size
+    2) amount of reverb algorithms
+    3) amount of adjustable parameters
+    4) cpu processing requirement
+    5) resizable GUI option
 3 things it can do:
-    1)
-    2)
-    3)
+    1) create stereo or mono reverb
+    2) blend dry and wet signals
+    3) add modulation to reverb trail
  */
 
  /*
